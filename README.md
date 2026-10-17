@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm a Data Analytics Learner 👋
 
-<!--
-**SaniyaF777/SaniyaF777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my practical skills in data analytics through hands-on projects and continuous learning.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Excel:** Data cleaning, formulas and functions, PivotTables, charts, conditional formatting
+- **Power Query:** Data transformation, data type changes, duplicate removal, handling missing values
+- **Power BI:** Data visualization, KPIs, slicers, tables, reports and dashboards
+- **DAX:** Measures and calculations for data analysis
+
+## Currently Learning
+
+- **SQL:** Learning the basics of SQL and database querying.
+
+## Portfolio Goals
+
+I'm completing a **30-Day Data Analytics Portfolio Challenge**, documenting my projects and learning through practical examples.
+
+## Focus Areas
+
+- E-commerce sales analysis
+- Data cleaning and transformation
+- Business reporting and visualization
+- Descriptive analytics and insights
+
+## Projects
+
+- **PBI-Sales-Analysis:** Power BI Sales Analysis Project
+
+---
+
+I'm continuously learning and improving my data analytics skills through practical projects.
